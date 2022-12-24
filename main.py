@@ -1,12 +1,11 @@
 import random
-
 from telebot.async_telebot import AsyncTeleBot
 from telebot import types
 import asyncio
 import aioschedule
 from telebot.async_telebot import AsyncTeleBot
 
-API_TOKEN = '5639010888:AAFR3K2RcUxIi8a5ybnixrtUPi8uaX3mRl8'
+API_TOKEN = '5848918037:AAG25vdzTrdvtD9G_yI96nQJ-6DisU7wzPk'
 bot = AsyncTeleBot(API_TOKEN)
 
 
