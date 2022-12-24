@@ -1,0 +1,4 @@
+aioschedule~=0.5.2
+aiohttp~=3.8.3
+python-dotenv~=0.20.0
+pytelegrambotapi~=4.7.0
